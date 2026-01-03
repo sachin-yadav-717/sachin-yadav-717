@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sachin Yadav 👋
 
-<!--
-**sachin-yadav-717/sachin-yadav-717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student  
+💻 Aspiring Software Engineer  
+🌱 Currently learning Java, DSA & Full Stack Development  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Programming: Java , C , Python
+- Web: HTML , CSS , JavaScript
+- Tools: Git , GitHub , Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Data Structures & Algorithms
+- Full Stack Projects
+- Problem Solving on LeetCode
+
+## 🔗 Connect with me
+- LinkedIn: www.linkedin.com/in/sachin-yadav-717-
