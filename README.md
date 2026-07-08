@@ -6,7 +6,7 @@
 
 ## 🛠 Skills
 - Programming: Java , C , Python
-- Web: HTML , CSS , JavaScript
+- Web: HTML , CSS 
 - Tools: Git , GitHub , Canva
 
 ## 📌 Current Focus
