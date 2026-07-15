@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science & Technology Student  
 💻 Aspiring Software Engineer  
-🌱 Currently learning Java-DSA & Full Stack Development  
+🌱 Currently learning Java-DSA & Java Full Stack Development  
 
 ## 🛠 Skills
 - Programming: Java , C , Python
