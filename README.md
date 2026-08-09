@@ -11,7 +11,6 @@
 
 ## 📌 Current Focus
 - Data Structures & Algorithms
-- Full Stack Projects
 - Problem Solving on LeetCode
 
 ## 🔗 Connect with me
